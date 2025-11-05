@@ -42,7 +42,7 @@ This repository contains a collection of machine learning notebooks developed as
 **File:** `student-depression-prediction.ipynb`  
 - **Task:** Predict depression levels among students based on lifestyle and academic factors.  
 - **Techniques:** Data Preprocessing, Feature Importance, Classification Models.  
-- **Dataset:** Public academic dataset (sources vary by institution).  
+- **Dataset:** [Student Depression Dataset](https://www.kaggle.com/datasets/hopesb/student-depression-dataset)
 
 ---
 
